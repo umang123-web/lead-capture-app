@@ -33,9 +33,9 @@ Form validation
 Loading state  
 Success/Error message  
 Responsive UI  
-✔ Webhook trigger  
-✔ Detail page  
-✔ Clean architecture  
+Webhook trigger  
+Detail page  
+Clean architecture  
 
 Production Notes:
 Use environment variables, database, auth, logging, rate limit for real deployment.
