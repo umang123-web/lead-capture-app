@@ -29,10 +29,10 @@ After lead creation backend sends POST request to webhook.site URL.
 Replace WEBHOOK_URL in server.js with your own.
 
 ## Features
-✔ Form validation  
-✔ Loading state  
-✔ Success/Error message  
-✔ Responsive UI  
+Form validation  
+Loading state  
+Success/Error message  
+Responsive UI  
 ✔ Webhook trigger  
 ✔ Detail page  
 ✔ Clean architecture  
